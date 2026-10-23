@@ -1,0 +1,19 @@
+{
+  "name": "textmate-luau",
+  "version": "0.1.0",
+  "description": "TextMate grammar for Luau.",
+  "license": "MIT",
+  "files": [
+    "grammar.json"
+  ],
+  "exports": "./grammar.json",
+  "scripts": {
+    "format": "oxfmt",
+    "check": "bun test && oxfmt --check",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "vscode-oniguruma": "1.7.0",
+    "vscode-textmate": "9.3.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "1": {
+    "local": "storage.modifier.local.luau",
+    "message": "variable.other.readwrite.luau",
+    "hello": "string.quoted.double.luau",
+    "comment": "comment.line.double-dash.luau"
+  },
+  "2": {
+    "print": "support.function.luau"
+  }
+}

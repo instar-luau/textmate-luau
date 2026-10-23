@@ -1,0 +1,43 @@
+{
+  "1": {
+    "declare": "storage.modifier.declaration.luau",
+    "extern": "storage.modifier.extern.luau",
+    "type": "storage.type.luau",
+    "Widget": "entity.name.type.luau",
+    "extends": "storage.modifier.inheritance.luau",
+    "Parent": "entity.name.type.luau",
+    "with": "keyword.control.luau"
+  },
+  "2": {
+    "read": "storage.modifier.access.luau",
+    "name": "variable.property.luau",
+    "string": "support.type.primitive.luau"
+  },
+  "3": {
+    "write": "storage.modifier.access.luau",
+    "string": "support.type.primitive.luau",
+    "number": "support.type.primitive.luau"
+  },
+  "4": {
+    "label": "string.quoted.double.luau"
+  },
+  "5": {
+    "with": "variable.property.luau"
+  },
+  "6": {
+    "read:": "variable.property.luau"
+  },
+  "7": {
+    "checked": "storage.type.attribute.luau",
+    "function": "keyword.control.luau",
+    "get": "entity.name.function.luau",
+    "self": "variable.parameter.function.luau",
+    "number": "support.type.primitive.luau"
+  },
+  "8": {
+    "end": "keyword.control.luau"
+  },
+  "9": {
+    "local": "storage.modifier.local.luau"
+  }
+}

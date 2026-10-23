@@ -1,0 +1,13 @@
+{
+  "1": {
+    "extends": "storage.modifier.inheritance.luau",
+    "package": "entity.name.namespace.luau",
+    "Base": "string.quoted.double.luau"
+  },
+  "2": {
+    "value": "variable.other.property.luau"
+  },
+  "3": {
+    "end": "keyword.control.luau"
+  }
+}

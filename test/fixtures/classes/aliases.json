@@ -1,0 +1,12 @@
+{
+  "1": {
+    "number": "support.type.primitive.luau"
+  },
+  "2": {
+    "export": "storage.modifier.visibility.luau",
+    "class": "storage.type.class.luau"
+  },
+  "3": {
+    "end": "keyword.control.luau"
+  }
+}

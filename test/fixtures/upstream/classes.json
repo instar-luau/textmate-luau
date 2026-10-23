@@ -1,0 +1,84 @@
+{
+  "19": {
+    "class": "storage.type.class.luau",
+    "Point": "entity.name.type.luau"
+  },
+  "20": {
+    "public": "storage.modifier.visibility.luau",
+    "x": "variable.other.property.luau"
+  },
+  "23": {
+    "function": "keyword.control.luau",
+    "magnitude": "entity.name.function.luau",
+    "self": "variable.parameter.function.luau"
+  },
+  "24": {
+    "math.sqrt": "support.function.luau"
+  },
+  "52": {
+    "end": "keyword.control.luau"
+  },
+  "67": {
+    "class": "variable.other.readwrite.luau",
+    "isinstance": "entity.name.function.luau"
+  },
+  "234": {
+    "class": "storage.type.class.luau",
+    "Secret": "entity.name.type.luau"
+  },
+  "247": {
+    "public": "storage.modifier.visibility.luau",
+    "cb": "variable.other.property.luau"
+  },
+  "350": {
+    "public": "storage.modifier.visibility.luau",
+    "tier": "variable.other.property.luau",
+    "string": "support.type.primitive.luau"
+  },
+  "382": {
+    "native": "storage.type.attribute.luau"
+  },
+  "449": {
+    "public": "storage.modifier.visibility.luau",
+    "a1": "variable.other.property.luau",
+    "e1": "variable.other.property.luau"
+  },
+  "473": {
+    "class": "storage.type.class.luau",
+    "Cls": "entity.name.type.luau",
+    "end": "keyword.control.luau"
+  },
+  "558": {
+    "public": "storage.modifier.visibility.luau",
+    "children": "variable.other.property.luau",
+    "Child": "entity.name.type.luau"
+  },
+  "695": {
+    "open": "storage.modifier.open.luau",
+    "class": "storage.type.class.luau",
+    "Animal": "entity.name.type.luau"
+  },
+  "707": {
+    "open": "storage.modifier.open.luau",
+    "class": "storage.type.class.luau",
+    "Cat": "entity.name.type.luau",
+    "extends": "storage.modifier.inheritance.luau",
+    "Animal": "entity.name.type.luau"
+  },
+  "765": {
+    "class": "storage.type.class.luau",
+    "Kitten": "entity.name.type.luau",
+    "extends": "storage.modifier.inheritance.luau",
+    "Cat": "entity.name.type.luau"
+  },
+  "1001": {
+    "class": "storage.type.class.luau",
+    "GrandChildDoesntDefineAConstructorEither": "entity.name.type.luau",
+    "extends": "storage.modifier.inheritance.luau",
+    "ChildDoesntDefineAConstructor": "entity.name.type.luau"
+  },
+  "1030": {
+    "return": "keyword.control.luau",
+    "OK": "string.quoted.single.luau"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "1": {
+    "class": "variable.other.readwrite.luau",
+    "open": "variable.other.readwrite.luau",
+    "extends": "variable.other.readwrite.luau",
+    "public": "variable.other.readwrite.luau",
+    "declare": "variable.other.readwrite.luau",
+    "extern": "variable.other.readwrite.luau",
+    "with": "variable.other.readwrite.luau"
+  },
+  "2": {
+    "class": "entity.name.function.luau",
+    "public": "variable.other.readwrite.luau"
+  },
+  "3": {
+    "public": "variable.other.property.luau"
+  },
+  "4": {
+    "declare": "entity.name.function.luau"
+  }
+}

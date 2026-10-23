@@ -1,0 +1,11 @@
+{
+  "1": {
+    "export": "storage.modifier.visibility.luau",
+    "open": "storage.modifier.open.luau",
+    "class": "storage.type.class.luau",
+    "Parent": "entity.name.type.luau"
+  },
+  "2": {
+    "end": "keyword.control.luau"
+  }
+}

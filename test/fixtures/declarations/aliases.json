@@ -1,0 +1,18 @@
+{
+  "1": {
+    "number": "support.type.primitive.luau"
+  },
+  "2": {
+    "declare": "storage.modifier.declaration.luau",
+    "with": "keyword.control.luau"
+  },
+  "3": {
+    "end": "keyword.control.luau"
+  },
+  "4": {
+    "boolean": "support.type.primitive.luau"
+  },
+  "5": {
+    "declare": "storage.modifier.declaration.luau"
+  }
+}

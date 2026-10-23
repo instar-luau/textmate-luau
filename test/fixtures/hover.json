@@ -1,0 +1,8 @@
+{
+  "1": {
+    "function": "keyword.control.luau",
+    "greet": "entity.name.function.luau",
+    "name": "variable.parameter.function.luau",
+    "string": "support.type.primitive.luau"
+  }
+}

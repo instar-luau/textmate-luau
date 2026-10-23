@@ -1,0 +1,16 @@
+{
+  "2": {
+    "deprecated": "storage.type.attribute.luau"
+  },
+  "3": {
+    "1": "constant.numeric.decimal.luau",
+    "old": "string.quoted.double.luau"
+  },
+  "5": {
+    "checked": "storage.type.attribute.luau"
+  },
+  "7": {
+    "local": "storage.modifier.local.luau",
+    "operation": "entity.name.function.luau"
+  }
+}

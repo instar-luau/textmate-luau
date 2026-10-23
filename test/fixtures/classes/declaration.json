@@ -1,0 +1,42 @@
+{
+  "1": {
+    "export": "storage.modifier.visibility.luau",
+    "class": "storage.type.class.luau",
+    "Child": "entity.name.type.luau",
+    "extends": "storage.modifier.inheritance.luau",
+    "package": "entity.name.namespace.luau",
+    "Base": "entity.name.type.luau"
+  },
+  "2": {
+    "public": "storage.modifier.visibility.luau",
+    "value": "variable.other.property.luau",
+    "number": "support.type.primitive.luau"
+  },
+  "3": {
+    "public": "storage.modifier.visibility.luau",
+    "function": "keyword.control.luau",
+    "get": "entity.name.function.luau",
+    "self": "variable.parameter.function.luau"
+  },
+  "4": {
+    "if": "keyword.control.luau"
+  },
+  "5": {
+    "return": "keyword.control.luau"
+  },
+  "6": {
+    "end": "keyword.control.luau"
+  },
+  "7": {
+    "end": "keyword.control.luau"
+  },
+  "8": {
+    "public:": "variable.other.property.luau"
+  },
+  "9": {
+    "end": "keyword.control.luau"
+  },
+  "10": {
+    "value": "variable.other.readwrite.luau"
+  }
+}

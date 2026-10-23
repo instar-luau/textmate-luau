@@ -1,0 +1,11 @@
+{
+  "1": {
+    "export": "storage.modifier.visibility.luau",
+    "type": "storage.type.luau",
+    "Map": "entity.name.type.luau"
+  },
+  "2": {
+    "42": "constant.numeric.decimal.luau",
+    "const": "storage.modifier.const.luau"
+  }
+}

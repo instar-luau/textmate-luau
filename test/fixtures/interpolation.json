@@ -1,0 +1,8 @@
+{
+  "1": {
+    "Hello": "string.interpolated.luau",
+    "string.upper": "support.function.luau",
+    "name": "variable.other.readwrite.luau",
+    "!": "string.interpolated.luau"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "1": {
+    "local": "storage.modifier.local.luau",
+    "function": "keyword.control.luau",
+    "assertEq": "entity.name.function.luau",
+    "left": "variable.parameter.function.luau",
+    "right": "variable.parameter.function.luau"
+  },
+  "10": {
+    "assertEq": "entity.name.function.luau",
+    "hello": "string.interpolated.luau",
+    "world": "string.quoted.double.luau"
+  },
+  "18": {
+    "The lock combinations are:": "string.interpolated.luau",
+    "table.concat": "support.function.luau",
+    "combo": "variable.other.readwrite.luau"
+  },
+  "20": {
+    "{true}": "punctuation.definition.interpolated-string-expression.begin.luau",
+    "true}": "constant.language.boolean.true.luau"
+  },
+  "23": {
+    "Welcome to": "string.interpolated.luau"
+  },
+  "24": {
+    "name": "variable.other.readwrite.luau"
+  },
+  "25": {
+    "!": "string.interpolated.luau"
+  },
+  "37": {
+    "Escaped brace:": "string.interpolated.luau",
+    "\\{": "constant.character.escape.luau"
+  },
+  "40": {
+    "Escaped backslash": "string.interpolated.luau",
+    "\\\\": "constant.character.escape.luau"
+  },
+  "43": {
+    "Hello": "string.interpolated.luau",
+    "from inside": "string.interpolated.luau",
+    "a nested string": "string.quoted.double.luau"
+  },
+  "45": {
+    "4": "constant.numeric.decimal.luau"
+  },
+  "50": {
+    "shadowsString": "entity.name.function.luau",
+    "string": "variable.parameter.function.luau"
+  },
+  "57": {
+    "\\u{0041}": "constant.character.escape.luau"
+  },
+  "60": {
+    "\\0": "constant.character.escape.luau",
+    "123": "constant.numeric.decimal.luau"
+  },
+  "62": {
+    "return": "keyword.control.luau",
+    "OK": "string.quoted.double.luau"
+  }
+}

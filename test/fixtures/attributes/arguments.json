@@ -1,0 +1,14 @@
+{
+  "1": {
+    "42": "constant.numeric.decimal.luau",
+    "deprecated": "storage.type.attribute.luau",
+    "old": "string.quoted.double.luau",
+    "true": "constant.language.boolean.true.luau",
+    "checked": "storage.type.attribute.luau",
+    "note": "storage.type.attribute.luau",
+    "message": "string.other.multiline.luau"
+  },
+  "2": {
+    "operation": "entity.name.function.luau"
+  }
+}

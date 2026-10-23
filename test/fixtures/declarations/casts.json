@@ -1,0 +1,17 @@
+{
+  "1": {
+    "Widget": "entity.name.type.luau"
+  },
+  "2": {
+    "declare": "storage.modifier.declaration.luau"
+  },
+  "3": {
+    "Widget": "entity.name.type.luau"
+  },
+  "4": {
+    "class": "storage.type.class.luau"
+  },
+  "5": {
+    "end": "keyword.control.luau"
+  }
+}

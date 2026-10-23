@@ -1,0 +1,13 @@
+{
+  "1": {
+    "type": "storage.type.luau"
+  },
+  "2": {
+    "read": "storage.modifier.access.luau",
+    "read:": "variable.property.luau"
+  },
+  "3": {
+    "write": "storage.modifier.access.luau",
+    "write:": "variable.property.luau"
+  }
+}

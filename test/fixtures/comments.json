@@ -1,0 +1,15 @@
+{
+  "1": {
+    "class": "comment.line.double-dash.luau"
+  },
+  "2": {
+    "declare": "string.quoted.double.luau"
+  },
+  "4": {
+    "deprecated": "comment.block.luau",
+    "class": "comment.block.luau"
+  },
+  "6": {
+    "print": "support.function.luau"
+  }
+}

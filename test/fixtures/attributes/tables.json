@@ -1,0 +1,10 @@
+{
+  "1": {
+    "deprecated": "storage.type.attribute.luau",
+    "use": "variable.other.readwrite.luau",
+    "old": "string.quoted.double.luau",
+    "function": "keyword.control.luau",
+    "f()": "entity.name.function.luau",
+    "end": "keyword.control.luau"
+  }
+}

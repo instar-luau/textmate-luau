@@ -1,0 +1,14 @@
+{
+  "1": {
+    "checked": "storage.type.attribute.luau",
+    "declare": "storage.modifier.declaration.luau",
+    "function": "keyword.control.luau",
+    "create": "entity.name.function.luau",
+    "value": "variable.parameter.function.luau",
+    "number": "support.type.primitive.luau",
+    "Widget": "entity.name.type.luau"
+  },
+  "2": {
+    "local": "storage.modifier.local.luau"
+  }
+}

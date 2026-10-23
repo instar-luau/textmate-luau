@@ -1,0 +1,13 @@
+{
+  "1": {
+    "declare": "storage.modifier.declaration.luau",
+    "global": "variable.other.readwrite.luau"
+  },
+  "2": {
+    "name": "variable.property.luau",
+    "string": "support.type.primitive.luau"
+  },
+  "4": {
+    "result": "variable.other.readwrite.luau"
+  }
+}
